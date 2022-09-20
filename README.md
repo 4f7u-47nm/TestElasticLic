@@ -1,4 +1,6 @@
 # TestElasticLic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F4f7u-47nm%2FTestElasticLic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F4f7u-47nm%2FTestElasticLic?ref=badge_shield)
+
 
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -322,3 +324,7 @@ This XML file does not appear to have any style information associated with it. 
 </developer>
 </developers>
 </project>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F4f7u-47nm%2FTestElasticLic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F4f7u-47nm%2FTestElasticLic?ref=badge_large)
